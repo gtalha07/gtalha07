@@ -1,6 +1,8 @@
 ### Hi there! 👋
-### I am Talha Gondal
-### Mobile Application/Web Developer 
+### I am Talha Gondal 	:technologist_light_skin_tone:
+### Mobile Application/Web Developer, Coder
+
+
 <!--
 **gtalha07/gtalha07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
