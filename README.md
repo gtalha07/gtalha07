@@ -2,6 +2,7 @@
 
 
 <!-- Github Stats -->
+### 📈 Github Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtalha07&show_icons=true&theme=radical"/>
 <!-- Actual text -->
 
