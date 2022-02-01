@@ -3,9 +3,10 @@
 
 <!-- Github Stats -->
 ### 📈 Github Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtalha07&show_icons=true&theme=radical"/>
-<!-- Actual text -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtalha07)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- Actual text -->
+###                                             Social Media
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
