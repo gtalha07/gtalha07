@@ -3,6 +3,7 @@
 
 <!-- Github Stats -->
 ### 📈 Github Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtalha07&theme=dracula"/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtalha07&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Actual text -->
