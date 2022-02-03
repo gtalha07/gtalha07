@@ -1,5 +1,5 @@
 
-![Header](https://github.com/gtalha07/gtalha07/blob/main/download.png "Header")
+![Header](https://github.com/gtalha07/gtalha07/blob/main/banner.png "Header")
 
 ### About Me
 My Name is Talha Gondal and I'm a Mobile Applications/ Web Developer. I currently work on Upwork. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
