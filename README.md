@@ -1,8 +1,8 @@
 
 
 
-### About Me
-My Name is Talha Gondal and I'm a Mobile Applications/ Web Developer. I currently work on Upwork. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+### Contact
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
