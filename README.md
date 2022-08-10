@@ -2,7 +2,7 @@
 
 
 ### Contact
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+Web and Mobile Applications Developer. Dart is my mother language. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
