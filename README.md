@@ -2,7 +2,7 @@
 
 
 ### Contact
-Web and Mobile Applications Developer with experience in Flutter, React/React Native. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+Open-source enthusiast and Software Engineer. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
