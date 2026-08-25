@@ -17,12 +17,7 @@
 />
   </a>
 </p>
-
 <br>
-
-<br>
-<br>
-
 <h2 align="center">🌐 Open Source</h2>
 
 <p align="center">
@@ -85,14 +80,10 @@
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/TeamCity-000000?style=flat-square&logo=teamcity&logoColor=white" />
 </p>
-
 <br>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gtalha07&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
-
-<br>
 
 <h2 align="center"> 🔗 Links </h2>
 <p align="center">
