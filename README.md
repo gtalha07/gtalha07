@@ -10,9 +10,15 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/de38c2f8-7840-4860-acc0-16df0f8ccad6/public_url">
-    <img src="https://images.credly.com/images/8e3c7d4c-4b6e-4b4e-9e3d-8e6f5f3d8d8d/image.png" width="140" alt="AWS Certified AI Practitioner" />
+   <img
+  src="https://images.credly.com/size/500x500/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png"
+  alt="AWS Certified AI Practitioner"
+  width="180"
+/>
   </a>
 </p>
+
+<br>
 
 <br>
 <br>
@@ -89,7 +95,10 @@
 <br>
 
 <h2 align="center"> 🔗 Links </h2>
-
+<p align="center">
+  <a href="https://gtalha.dev">
+    <img src="https://img.shields.io/badge/Portfolio-gtalha.dev-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~01e642f5803dd1a29c">
     <img src="https://img.shields.io/badge/Upwork-Profile-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
